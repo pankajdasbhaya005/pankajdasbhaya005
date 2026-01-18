@@ -14,10 +14,8 @@
 ---
 
 ### 🛠️ Tech I'm Learning
-- HTML, CSS, JavaScript  
-- React / Next.js  
-- Python  
-- Git & GitHub  
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,git" />
 
 ---
 
