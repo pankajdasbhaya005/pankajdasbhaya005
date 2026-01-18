@@ -21,7 +21,7 @@
 
 ---
 
-> Learning by building, not just watching.
+ > 🚀 Learning by building, not just watching.
 
 
 <!--
