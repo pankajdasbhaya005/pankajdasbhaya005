@@ -7,7 +7,6 @@
 
 ---
 
-👨‍💻 Developer with an entrepreneur’s mindset  
 🚀 Building real-world products and startup ideas  
 📈 Focused on long-term growth, clarity, and execution  
 
