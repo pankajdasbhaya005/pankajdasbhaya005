@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Developer & Entrepreneur</h1>
+<h1 align="center">Hi 👋, I'm a Developer in Progress & Entrepreneur</h1>
 
 <h3 align="center">
 🚀 Building and learning every day <br/>
@@ -21,9 +21,10 @@
 
 ### ✅ Tech I’ve Learned
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/> Python  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> Git & GitHub  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> Git & GitHub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML 
 
+   
 ---
 
 ### 🔄 Tech I’m Currently Learning
