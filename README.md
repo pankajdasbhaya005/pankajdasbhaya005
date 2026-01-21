@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm a Developer in Progress & Entrepreneurial Mindset</h1>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Batman-Bat-Symbol.png" width="120" alt="Batman Logo"/>
+</p>
+
 <h3 align="center">
 🚀 Building and learning every day <br/>
 🌐 Web • 🤖 AI • 🚀 Startups
