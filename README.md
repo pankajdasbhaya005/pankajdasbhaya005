@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Developer in Progress & Entrepreneurial Mindset</h1>
 
 <p align="center">
-  <img src="./assets/batman.gif" width="140" alt="Batman Logo"/>
+  <img src="https://worldvectorlogo.com/logo/batman-5" width="140" alt="Batman Logo"/>
 </p>
 
 
