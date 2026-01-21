@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Developer in Progress & Entrepreneurial Mindset</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/batman/batman.png" width="120">
+  <img src="file:///C:/Users/p9951/Downloads/svgwaves_io_batman.svg" width="120">
 </p>
 
 
