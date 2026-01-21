@@ -5,7 +5,7 @@
     src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/batman.svg"
     width="140"
     alt="Batman Animated Logo"
-  />
+  >
 </p>
 
 
