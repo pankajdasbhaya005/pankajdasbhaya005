@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm a Developer in Progress & Entrepreneurial Mindset</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Batman-Bat-Symbol.png" width="120" alt="Batman Logo"/>
+  <img 
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/batman.svg"
+    width="140"
+    alt="Batman Animated Logo"
+  />
 </p>
+
 
 <h3 align="center">
 🚀 Building and learning every day <br/>
