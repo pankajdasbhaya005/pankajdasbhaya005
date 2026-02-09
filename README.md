@@ -6,6 +6,7 @@
 </h3>
 
 ---
+
 🧩 Programmer — focused on logic, problem-solving, and clean code  
 🚀 Building real-world products and startup ideas  
 📈 Focused on long-term growth, clarity, and execution  
@@ -14,7 +15,7 @@
 
 ### 🎓 Education
 - <img src="https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg" width="20"/>  
-  **BS in Data Science & Applications** — *IIT Madras*
+  <b>BS in Data Science & Applications</b> — <i>IIT Madras</i>
 
 ---
 
@@ -23,7 +24,8 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> Git & GitHub  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18"/> CSS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18"/> Figma                                                                                        - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript    
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18"/> Figma  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript  
 
 ---
 
@@ -44,9 +46,9 @@
 
 #### 🗄️ Database
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL  
-  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB  
 
 ---
 
-> 🚀 Learning by building, not just watching.
+> 🚀 Learning by building, not just watching.  
 > 🧠 Focused on fundamentals and real-world execution.
