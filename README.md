@@ -40,10 +40,6 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18"/> Next.js  
 
-#### 🗄️ Database
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL  
-
-
 ---
 
 > 🚀 Learning by building, not just watching.  
