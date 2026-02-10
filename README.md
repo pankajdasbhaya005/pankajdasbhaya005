@@ -30,7 +30,8 @@
 ---
 
 ### 🔄 Tech I’m Currently Learning
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="18"/> FastAPI                                                                                 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL    
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="18"/> FastAPI  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL    
 ---
 
 ### ⏭️ Tech I’ll Learn Next
