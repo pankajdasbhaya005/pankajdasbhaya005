@@ -7,9 +7,9 @@
 
 ---
 
-🧩 Programmer — focused on logic, problem-solving, and clean code  
-🚀 Building real-world products and startup ideas  
-📈 Focused on long-term growth, clarity, and execution  
+- 🧩 Programmer — focused on logic, problem-solving, and clean code  
+- 🚀 Building real-world products and startup ideas  
+- 📈 Focused on long-term growth, clarity, and execution  
 
 ---
 
