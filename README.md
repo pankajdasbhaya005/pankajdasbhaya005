@@ -14,8 +14,8 @@
 ---
 
 ## 🎓 Education
- <img src="https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg" width="30"/>  
-  <b>BS in Data Science & Applications</b> — <i>IIT Madras</i>
+ <img src="https://upload.wikimedia.org/wikipedia/en/6/69/IIT_Madras_Logo.svg" width="50"/>  
+  <b>BS in Data Science & Applications</b> — <b>IIT Madras</b>
 
 ---
 
