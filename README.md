@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Developer in Progress & Entrepreneurial Mindset</h1>
+<h1 align="center">Hi 👋, I'm a Web Developer & Entrepreneurial Mindset</h1>
 
 <h3 align="center">
 🚀 Building and learning every day <br/>
