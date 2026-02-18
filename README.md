@@ -68,6 +68,6 @@
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajdasbhaya005&label=Profile%20views&color=0e75b6&style=flat" alt="pankajdasbhaya005" /> </p>
-> 🚀 Learning by building, not just watching.  
-> 🧠 Focused on fundamentals and real-world execution.
+
+- 🚀 Learning by building, not just watching.      
+- 🧠 Focused on fundamentals and real-world execution.  
