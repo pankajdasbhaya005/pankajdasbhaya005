@@ -43,7 +43,6 @@
 ### ⚙️ Tools & Environment
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="margin-right:15px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="margin-right:15px;"/>
   <img src="https://skillicons.dev/icons?i=github" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" style="margin-right:15px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" style="margin-right:15px;"/>
