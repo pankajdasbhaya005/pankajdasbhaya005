@@ -53,22 +53,22 @@
 
 ---
 
-## 🔄 Tech I’m Currently Learning
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" style="margin-right:15px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"style="margin-right:15px;"/>
-</p>
-
----
-
-## ⏭️ Tech I’ll Learn Next
-
+## 🔄 Tech I’m Currently Learning  
 ### ⚛️ Frontend
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin-right:15px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
 </p>
 
+---
+
+## ⏭️ Tech I’ll Learn Next  
+
+### 🛠️ Backend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" style="margin-right:15px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"style="margin-right:15px;"/>
+</p>
 ---
 
 - 🚀 Learning by building, not just watching.      
