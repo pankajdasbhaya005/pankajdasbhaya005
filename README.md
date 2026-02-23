@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a Web Developer & Entrepreneur</h1>
 
 <p align="center">
-  <img src="batman.png" width="120" />
+  <img src="batman.png" width="260" />
 </p>
 
 <h2 align="center">
