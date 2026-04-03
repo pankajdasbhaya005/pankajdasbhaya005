@@ -48,13 +48,11 @@
 
 **Indian Institute of Technology, Madras — 
 BS in Data Science & Applications  (In Progress)**
-
 </div>
 
 ---
 
 <div align="center">
-  
  ***Don't just consume the future — build it.***
 </div>
 
